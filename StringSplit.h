@@ -1,3 +1,5 @@
+//Von Ulrich Bien
+
 #ifndef _STRINGSPLIT_H
 #define _STRINGSPLIT_H
 #include <WString.h>
